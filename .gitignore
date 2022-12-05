@@ -1,0 +1,6 @@
+private/
+*tmp/
+*old
+*backup
+Thums.db
+.DS_Store
